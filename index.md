@@ -3,7 +3,7 @@
 # Neumorphism
 Source Project Sample Neumorphism for Android Studio and Sketchware
 
-Happy downloading, I hope this project is useful for all of you. Don't forget to comment : https://github.com/SWRevo/Neumorphism/discussions/1 and share with other friends so that what I do can be more useful.
+Happy downloading, I hope this project is useful for all of you. Don't forget to comment [Neumorphism Discussions](https://github.com/SWRevo/Neumorphism/discussions/1) and share with other friends so that what I do can be more useful.
 
 <h2 align="center">Preview</h2>
 <p align="center">
@@ -33,7 +33,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License. You may obtain a copy of
 the License at
 
-   http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
