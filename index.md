@@ -15,7 +15,7 @@ Happy downloading, I hope this project is useful for all of you. Don't forget to
 
 ### Support or Contact
 
-Having trouble with implementation? Check out our [Youtube Channel](https://docs.github.com/categories/github-pages-basics/) or [contact me](https://t.me/indoSW) and we’ll help you sort it out.
+Having trouble with implementation? Check out our [Youtube Channel](https://www.youtube.com/channel/UCNED9ddpg-QVQx8HIgvDeBA) or [contact me](https://t.me/indoSW) and we’ll help you sort it out.
 
 
 ## ORIGINAL SOURCE
