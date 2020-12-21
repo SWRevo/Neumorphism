@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to SWRevo by IndoSW GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SWRevo/Neumorphism/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Neumorphism
+Source Project Sample Neumorphism for Android Studio and Sketchware
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Happy downloading, I hope this project is useful for all of you. Don't forget to comment : https://github.com/SWRevo/Neumorphism/discussions/1 and share with other friends so that what I do can be more useful.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SWRevo/Neumorphism/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h2 align="center">Preview</h2>
+<p align="center">
+<img width="500" src="https://user-images.githubusercontent.com/71774787/102743976-98ef3880-4393-11eb-88d0-40c6a4812165.jpg"/>
+</p>
+<p align="center">
+<img width="400" src="https://user-images.githubusercontent.com/71774787/102744087-e9669600-4393-11eb-8b04-32544f0d370d.jpg"/>
+</p>
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with implementation? Check out our [Youtube Channel](https://docs.github.com/categories/github-pages-basics/) or [contact me](https://t.me/indoSW) and we’ll help you sort it out.
+
+
+## ORIGINAL SOURCE
+This project is the implementation of project sources from: [fornewid](https://github.com/fornewid/neumorphism)
+
+## License
+
+```
+Copyright 2020 SOUP
+
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements. See the NOTICE file distributed with this work for
+additional information regarding copyright ownership. The ASF licenses this
+file to you under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+```
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SWRevo/Neumorphism/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
