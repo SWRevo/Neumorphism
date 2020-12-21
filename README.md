@@ -8,7 +8,7 @@ Happy downloading, I hope this project is useful for all of you. Don't forget to
 ![Screenshot_20201221-135325203.jpg](https://user-images.githubusercontent.com/71774787/102744087-e9669600-4393-11eb-8b04-32544f0d370d.jpg)
 
 ## ORIGINAL SOURCE
-This project is the implementation of project sources from: [sample](https://github.com/fornewid/neumorphism)
+This project is the implementation of project sources from: [fornewid](https://github.com/fornewid/neumorphism)
 
 ## License
 
