@@ -6,8 +6,9 @@ Happy downloading, I hope this project is useful for all of you. Don't forget to
 <h2 align="center">Preview</h2>
 <p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/71774787/102743976-98ef3880-4393-11eb-88d0-40c6a4812165.jpg"/>
-
-<img width="300" src="https://user-images.githubusercontent.com/71774787/102744087-e9669600-4393-11eb-8b04-32544f0d370d.jpg"/>
+</p>
+<p align="center">
+<img width="400" src="https://user-images.githubusercontent.com/71774787/102744087-e9669600-4393-11eb-8b04-32544f0d370d.jpg"/>
 </p>
 
 ## ORIGINAL SOURCE
